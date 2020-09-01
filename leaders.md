@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Tonimir Kišasondi](mailto:tonimir.kisasondi@owasp.org)
+* [Igor Vuk](mailto:igor.vuk@owasp.org)
+* [Vlatko Košturjak](mailto:vlatko.kosturjak@owasp.org)
