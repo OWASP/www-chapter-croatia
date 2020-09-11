@@ -21,7 +21,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Local News
 - Due to the current situation, all upcoming events will be done in the form of online meetings
-- Future events will be announced on the OWASP Croatia Meetup group
+- Future events will be announced on this page and on the OWASP Croatia Meetup group
 - Everyone is welcome to join us at our chapter meetings
 
 ## Interested In Speaking?
