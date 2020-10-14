@@ -26,3 +26,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Interested In Speaking?
 We are always open to speakers who want to present a talk that aligns with our Chapter's goals. If you are interested, please email your proposed topic, abstract, and brief speaker bio to any of the chapter leaders.
+
+## Check our Upcoming Meetup Events:
+{% include chapter_events.html group=page.meetup-group %}
