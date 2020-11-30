@@ -22,6 +22,7 @@ Speaker name and about.
 
 ## Past Events
 <!-- <br/> <br/> -->
+- 30.10.2020 - [OWASP Chapter Croatia Virtual Meetup - DefectDojo & Semgrep](https://www.meetup.com/OWASP-Croatia-Meetup-Group/events/273875502/)
 -  27th of February 2019 at [Cloud Native meetup - Kino Europa](https://www.meetup.com/Kubernetes-Croatia/events/258931456/)
 - At the [DORS/CLUC 2019](https://2019.dorscluc.org/) (Zagreb) 18.04.2019
 - At [BSidesVarazdin](https://bsidesvarazdin.org) - 18.9.2019

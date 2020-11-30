@@ -25,7 +25,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - Everyone is welcome to join us at our chapter meetings
 
 ## Upcoming Events
-- 30.10.2020 - [OWASP Chapter Croatia Virtual Meetup - DefectDojo & Semgrep](https://www.meetup.com/OWASP-Croatia-Meetup-Group/events/273875502/)
+- Q1 2021 - online event - still accepting talk proposals :)
 
 ## Interested In Speaking?
 We are always open to speakers who want to present a talk that aligns with our Chapter's goals. If you are interested, please email your proposed topic, abstract, and brief speaker bio to any of the chapter leaders.
