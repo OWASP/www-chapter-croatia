@@ -25,7 +25,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - Everyone is welcome to join us at our chapter meetings
 
 ## Upcoming Events
-- Q1 2021 - online event - still accepting talk proposals :)
+- 25.02.2021 - [Chapter Croatia Virtual Meetup - SecureBank project and SolarWinds compromise](https://www.meetup.com/OWASP-Croatia-Meetup-Group/events/276266278/)
 
 ## Interested In Speaking?
 We are always open to speakers who want to present a talk that aligns with our Chapter's goals. If you are interested, please email your proposed topic, abstract, and brief speaker bio to any of the chapter leaders.
