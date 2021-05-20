@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: OWASP Croatia
 tags: croatia
+meetup group: OWASP-Croatia-Meetup-Group
 region: Europe
 
 ---
@@ -26,6 +27,8 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Upcoming Events
 - Q2 2021 - online event - still accepting talk proposals :)
+
+{% include chapter_events.html group=page.meetup-group %}
 
 ## Interested In Speaking?
 We are always open to speakers who want to present a talk that aligns with our Chapter's goals. If you are interested, please email your proposed topic, abstract, and brief speaker bio to any of the chapter leaders.
