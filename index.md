@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Croatia
 tags: croatia
-meetup group: OWASP-Croatia-Meetup-Group
+meetup-group: OWASP-Croatia-Meetup-Group
 region: Europe
 
 ---
