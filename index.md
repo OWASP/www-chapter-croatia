@@ -26,7 +26,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - Everyone is welcome to join us at our chapter meetings
 
 ## Upcoming Events
-- Q2 2021 - online event - still accepting talk proposals :)
 
 {% include chapter_events.html group=page.meetup-group %}
 
