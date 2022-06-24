@@ -22,10 +22,12 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Local News
 - Due to the current situation, all upcoming events will be done in the form of online meetings
-- Future events will be announced on this page and on the OWASP Croatia Meetup group
+- Future events will be announced on this page and on the [OWASP Croatia Meetup group](https://www.meetup.com/owasp-croatia-meetup-group/)
 - Everyone is welcome to join us at our chapter meetings
+- You can also find us on the [OWASP Slack - Chapter Croatia](https://owasp.slack.com/messages/chapter-croatia)
 
 ## Upcoming Events
+- Join our Meetup.com group to be notified about upcoming meetups. [OWASP Croatia Meetup Group](https://www.meetup.com/owasp-croatia-meetup-group/)
 
 {% include chapter_events.html group=page.meetup-group %}
 
