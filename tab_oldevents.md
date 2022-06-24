@@ -22,6 +22,10 @@ Speaker name and about.
 
 ## Past Events
 <!-- <br/> <br/> -->
+- 23.06.2022 - [Chapter Croatia Virtual Meetup - State of Infosec in Croatia & SBOM with DepTrack](https://www.meetup.com/owasp-croatia-meetup-group/events/286588183/)
+- 17.12.2021 - [Chapter Croatia Virtual Meetup - Risk Management and Log4j / Log4Shell](https://www.meetup.com/owasp-croatia-meetup-group/events/282683152/)
+- 07.10.2021 - [Chapter Croatia Virtual Meetup - Typosquatting & ECSC](https://www.meetup.com/owasp-croatia-meetup-group/events/281065020/)
+- 17.05.2021 - [Chapter Croatia Virtual Meetup - DeFi Hacks & WebAppSec with HAProxy](https://www.meetup.com/owasp-croatia-meetup-group/events/278745053/)
 - 25.02.2021 - [Chapter Croatia Virtual Meetup - SecureBank project and SolarWinds compromise](https://www.meetup.com/OWASP-Croatia-Meetup-Group/events/276266278/)
 - 30.10.2020 - [OWASP Chapter Croatia Virtual Meetup - DefectDojo & Semgrep](https://www.meetup.com/OWASP-Croatia-Meetup-Group/events/273875502/)
 -  27th of February 2019 at [Cloud Native meetup - Kino Europa](https://www.meetup.com/Kubernetes-Croatia/events/258931456/)
