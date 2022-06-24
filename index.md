@@ -18,11 +18,11 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/), and [Community Slack Channel](https://owasp.slack.com/). We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
 ## Local News
 - Due to the current situation, all upcoming events will be done in the form of online meetings
-- Future events will be announced on the [OWASP Croatia Meetup group](https://www.meetup.com/owasp-croatia-meetup-group/)
+- Future events will be announced on this page and on the [OWASP Croatia Meetup group](https://www.meetup.com/owasp-croatia-meetup-group/)
 - Everyone is welcome to join us at our chapter meetings
 - You can also find us on the [OWASP Slack - Chapter Croatia](https://owasp.slack.com/messages/chapter-croatia)
 
