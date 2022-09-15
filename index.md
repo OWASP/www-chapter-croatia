@@ -27,6 +27,8 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - You can also find us on the [OWASP Slack - Chapter Croatia](https://owasp.slack.com/messages/chapter-croatia)
 
 ## Upcoming Events
+
+- 16.06.2022 - [Chapter Croatia Physical Meetup](https://www.meetup.com/owasp-croatia-meetup-group/events/288496625/?isFirstPublish=true)
 - Join our Meetup.com group to be notified about upcoming meetups. [OWASP Croatia Meetup Group](https://www.meetup.com/owasp-croatia-meetup-group/)
 
 {% include chapter_events.html group=page.meetup-group %}
