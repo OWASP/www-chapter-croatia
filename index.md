@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Croatia
 tags: croatia
-meetup-group: owasp-croatia-meetup-group
+meetup-group: OWASP-Croatia-Meetup-Group
 region: Europe
 
 ---
@@ -26,7 +26,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - Everyone is welcome to join us at our chapter meetings
 - You can also find us on the [OWASP Slack - Chapter Croatia](https://owasp.slack.com/messages/chapter-croatia)
 
-Next Meeting/Event
+Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
