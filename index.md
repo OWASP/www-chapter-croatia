@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Croatia
 tags: croatia
-meetup-group: OWASP-Croatia-Meetup-Group
+meetup-group: owasp-croatia-meetup-group
 region: Europe
 
 ---
@@ -26,12 +26,11 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - Everyone is welcome to join us at our chapter meetings
 - You can also find us on the [OWASP Slack - Chapter Croatia](https://owasp.slack.com/messages/chapter-croatia)
 
-## Upcoming Events
-
-- 16.09.2022 - [Chapter Croatia Physical Meetup](https://www.meetup.com/owasp-croatia-meetup-group/events/288496625/)
-- Join our Meetup.com group to be notified about upcoming meetups. [OWASP Croatia Meetup Group](https://www.meetup.com/owasp-croatia-meetup-group/)
-
+Next Meeting/Event
+---------------------
 {% include chapter_events.html group=page.meetup-group %}
+
+- Join our Meetup.com group to be notified about upcoming meetups. [OWASP Croatia Meetup Group](https://www.meetup.com/owasp-croatia-meetup-group/)
 
 ## Interested In Speaking?
 We are always open to speakers who want to present a talk that aligns with our Chapter's goals. If you are interested, please email your proposed topic, abstract, and brief speaker bio to any of the chapter leaders.
