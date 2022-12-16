@@ -22,6 +22,8 @@ Speaker name and about.
 
 ## Past Events
 <!-- <br/> <br/> -->
+- 15.12.2022 - [Chapter Croatia Virtual Meetup: DORA & Phishing infrastructure](https://www.meetup.com/owasp-croatia-meetup-group/events/290082779/)
+- 16.09.2022 - [Chapter Croatia Physical Meetup](https://www.meetup.com/owasp-croatia-meetup-group/events/288496625/)
 - 23.06.2022 - [Chapter Croatia Virtual Meetup - State of Infosec in Croatia & SBOM with DepTrack](https://www.meetup.com/owasp-croatia-meetup-group/events/286588183/)
 - 17.12.2021 - [Chapter Croatia Virtual Meetup - Risk Management and Log4j / Log4Shell](https://www.meetup.com/owasp-croatia-meetup-group/events/282683152/)
 - 07.10.2021 - [Chapter Croatia Virtual Meetup - Typosquatting & ECSC](https://www.meetup.com/owasp-croatia-meetup-group/events/281065020/)
