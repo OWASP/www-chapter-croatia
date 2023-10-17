@@ -22,8 +22,8 @@ Speaker name and about.
 
 ## Past Events
 <!-- <br/> <br/> -->
-- 21.09.2023 - [Chapter Croatia Physical Meetup (SRCE, Zagreb)](https://www.meetup.com/owasp-croatia-meetup-group/events/296055257/)
-- 20.07.2023 - [Chapter Croatia Physical Meetup (Varaždin)](https://www.meetup.com/owasp-croatia-meetup-group/events/294664531/)
+- 21.09.2023 - [Chapter Croatia Physical Meetup (SRCE, Zagreb) - EvilColon and NIS2](https://www.meetup.com/owasp-croatia-meetup-group/events/296055257/)
+- 20.07.2023 - [Chapter Croatia Physical Meetup (Varaždin) - State of InfoSec report](https://www.meetup.com/owasp-croatia-meetup-group/events/294664531/)
 - 15.12.2022 - [Chapter Croatia Virtual Meetup: DORA & Phishing infrastructure](https://www.meetup.com/owasp-croatia-meetup-group/events/290082779/)
 - 16.09.2022 - [Chapter Croatia Physical Meetup](https://www.meetup.com/owasp-croatia-meetup-group/events/288496625/)
 - 23.06.2022 - [Chapter Croatia Virtual Meetup - State of Infosec in Croatia & SBOM with DepTrack](https://www.meetup.com/owasp-croatia-meetup-group/events/286588183/)
