@@ -1,0 +1,31 @@
+community:
+  - name: chapter-croatia
+    platform: slack
+    url: https://owasp.slack.com/archives/C0126FNBZ19
+    description: Croatian community discussion
+leaders:
+  - name: Tonimir Kišasondi
+    email: tonimir.kisasondi@owasp.org
+    github: tkisason
+  - name: Igor Vuk
+    email: igor.vuk@owasp.org
+    github: ivuk
+  - name: Vlatko Košturjak
+    email: vlatko.kosturjak@owasp.org
+location:
+  country: Croatia
+  country_code: HR
+  region: Europe
+  latitude: 45.3658443
+  longitude: 15.6575209
+meetup_group: OWASP-Croatia-Meetup-Group
+name: OWASP Croatia
+repositories:
+  - name: www-chapter-croatia
+    url: https://github.com/OWASP/www-chapter-croatia
+    description: OWASP Foundation Web Repository
+tags:
+  - croatia
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-croatia
